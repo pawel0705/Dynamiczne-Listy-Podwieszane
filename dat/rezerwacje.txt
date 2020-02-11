@@ -1,0 +1,8 @@
+KR54R Katowice 2011-12-13 Jaworek 4 
+TY34O London 2012-02-03 Hastings 4 
+TY34O London 2012-02-03 Poirot 3 
+KR54R Katowice 2011-12-13 Matianek 3 
+TY34O London 2012-02-03 Holmes 2 
+KR54R Katowice 2011-12-13 Lopez 2 
+TY34O London 2012-02-03 Lemon 1 
+KR54R Katowice 2011-12-13 Chavez 1 
