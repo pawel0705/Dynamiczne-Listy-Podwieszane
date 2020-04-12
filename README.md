@@ -1,8 +1,6 @@
 # Loty-projekt prostej bazy danych
  Prosta baza danych utworzona na podwieszanych dynamicznych listach w C++.
 
-// TODO W programie znajduje się fragment tworzonej tymczasowej listy, której pamięć jest alokowana, ale nie jest później zwalniana. Należy zaimplementować obsługę czyszczenia tego obszaru pamięci.
-
 # Opis programu
 
 Program korzysta z dynamicznych struktur danych i przygotowuje posortowane listy pasażerów. Program odczytuje tekstowy plik zawierający dane. Jego zawartość jest następująca:
