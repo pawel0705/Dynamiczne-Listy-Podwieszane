@@ -1,5 +1,5 @@
 # Loty-projekt prostej bazy danych
- Prosta baza danych utworzona na podwieszanych dynamicznych listach w C++.
+Program konsolowy napisany w C++ imitujący prostą bazę danych. Utworzona na podwieszanych dynamicznych listach.
 
 # Opis programu
 
